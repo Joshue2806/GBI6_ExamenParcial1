@@ -1,3 +1,4 @@
+![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
 # GBI6_ExamenParcial1
 En este repositorio se adjuntará la solución a los **ejercicios 6 y 7** del Examen Parcial 1.
 
