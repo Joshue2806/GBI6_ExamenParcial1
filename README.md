@@ -25,4 +25,4 @@ Se ha usado:
 ## Explicación de la data utilizada
 En estos ejercicios se ha seguido las instrucciones del archivo *<2021I_GBI6_ExamenParcial1.ipynb>* y las encontradas en el cuestionario del aula virtual de Ikiam; tras realizar los ejercicios, en la carpeta *<data/>* (del repositorio principal [bioinfo_g01](https://github.com/Joshue2806/bioinfo_g01/tree/main/2021I_GBI6_ExamenParcial1)) se han adjuntado las capturas de pantalla por cada *git push* de cada ejercicio para adjuntarlas al archivo *<2021I_GBI6_ExamenParcial1.ipynb>*
 
-![Ranita cirquera](https://i.imgur.com/0gdXZn8.gif){:height="36px"}
+<img src="https://i.imgur.com/0gdXZn8.gif" width="48">
