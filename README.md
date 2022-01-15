@@ -2,10 +2,10 @@
 En este repositorio se adjuntará la solución a los **ejercicios 6 y 7** del Examen Parcial 1.
 
 ## Datos personales
-**Nombre:** Joshué Giovanni Ruiz Moreira/
-**Semestre:** Sexto/
-**Carrera:** Biotecnología/ 
-**Materia:** Bioinformática/
+**Nombre:** Joshué Giovanni Ruiz Moreira
+**Semestre:** Sexto
+**Carrera:** Biotecnología
+**Materia:** Bioinformática
 
 ## Características del computador
 Característica | Detalle
